@@ -1,7 +1,11 @@
+### About me
+
 - 👋 Hi, I’m Shadiao
 A middle school student
 
 And a noob developer
+
+### Stats
 ![My wakatime](https://wakatime.com/share/@b78eaee7-63d6-4b58-bccf-5eba28295435/3099855c-25a0-4525-b071-c0b31c1c7e1e.svg "wakatime")
 
 <!---
